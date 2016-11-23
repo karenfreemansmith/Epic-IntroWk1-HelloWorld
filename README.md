@@ -2,13 +2,13 @@
 Version 0.0.1: August 1, 2016
 by [Karen Freeman-Smith](https://karenfreemansmith.github.io) and [Stephen Newkirk](https://github.com/NewkirkS)
 
-## Description
-*Epicodus Intro to Programming Week 1 Pair Project with Stephen Newkirk: Build hello world website to learn fundamentals of HTML and how to use Git & Github.*
-
 ### Technologies Used
 HTML, Git, Github
 
 ![screenshot of project running](screenshot.png)
+
+## Description
+*Epicodus Intro to Programming Week 1 Pair Project with Stephen Newkirk: Build hello world website to learn fundamentals of HTML and how to use Git & Github.*
 
 ## Setup/Installation
 * [View on Github Pages](https://karenfreemansmith.github.io/Epic-IntroWk1-HelloWorld)
